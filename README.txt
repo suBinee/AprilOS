@@ -1,6 +1,6 @@
                                                   ##########################################################
                                                   #                                                        #
-                                                  #                        AprilOS                         #
+                                                  #                        April OS                        #
                                                   #                                                        #  
                                                   #                                        April,16,2019   # 
                                                   #  This project is practice for my programming ability.  #
